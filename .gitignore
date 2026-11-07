@@ -1,0 +1,4 @@
+backend/app/__pycache__
+backend/.env
+.vscode
+backend/tests
